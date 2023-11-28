@@ -1,0 +1,11 @@
+sort1 uses: Bubblesort
+
+How do you know?: It is very fast with a sorted list: O(n). But very slow with a reversed list.
+
+sort2 uses: Mergesort
+
+How do you know?: It is by far the fastest and it takes always the same amount of time.
+
+sort3 uses: Selectionsort
+
+How do you know?: It is relatively slow and it takes always similar amount of time: Always O(n^2)
